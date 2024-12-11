@@ -1,5 +1,7 @@
-#  Manuel Lasarte León
+#  ***Manuel Lasarte León***
+### manuellasarteleon@gmail.com
 ## k4r4m310.es
+### manolo@k4r4m310.es
 
 ¡Bienvenido a mi página principal de GitHub! Aquí encontrarás una visión de mi trayectoria profesional, proyectos destacados y mis exploraciones en el fascinante mundo de la Inteligencia Artificial. 💡
 
