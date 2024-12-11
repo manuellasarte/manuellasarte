@@ -7,7 +7,9 @@
 
 ## 📜 Sobre mí
 
-Soy un analista programador apasionado por la tecnología, siempre buscando formas de innovar y aprender. Actualmente, estoy expandiendo mis horizontes hacia el aprendizaje automático y las redes neuronales, enfocado en la creación de soluciones prácticas y humanas. Creo firmemente en el poder de la tecnología para hacer del mundo un lugar mejor. 🌍
+Soy un analista programador apasionado por la tecnología, siempre buscando formas de innovar y aprender. Con más de 40 años de experiencia como analista programador, he trabajado en una amplia gama de proyectos que abarcan desde sistemas concurrentes hasta las tecnologías más modernas de hoy en día. Mi pasión por la tecnología y mi compromiso con la excelencia me han llevado a participar en soluciones innovadoras y efectivas en múltiples industrias.
+
+Actualmente, estoy expandiendo mis horizontes hacia el aprendizaje automático y las redes neuronales, enfocado en la creación de soluciones prácticas y humanas. Creo firmemente en el poder de la tecnología para hacer del mundo un lugar mejor. 🌍
 
 ---
 
@@ -25,6 +27,7 @@ Soy un analista programador apasionado por la tecnología, siempre buscando form
 - Análisis de sistemas, diseño orientado a objetos y gestión de proyectos ágiles.
 
 ---
+<!-- Este es un comentario que no se mostrará 
 
 ## 📂 Proyectos Destacados
 
@@ -35,7 +38,7 @@ Soy un analista programador apasionado por la tecnología, siempre buscando form
 ### 🌟 [Nombre del Proyecto 2](#)
 **Descripción:** Breve descripción del proyecto. ¿Cómo contribuyó a tus objetivos profesionales o personales?
 **Tecnologías:** Lista de tecnologías utilizadas.
-
+-->
 ---
 
 ## 🎯 Objetivos
